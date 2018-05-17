@@ -1,0 +1,6 @@
+C:\Users\Cem\Desktop\Dev\Conversion\ConversionExerc\ConversionExerc\bin\Debug\ConversionExerc.exe.config
+C:\Users\Cem\Desktop\Dev\Conversion\ConversionExerc\ConversionExerc\bin\Debug\ConversionExerc.exe
+C:\Users\Cem\Desktop\Dev\Conversion\ConversionExerc\ConversionExerc\bin\Debug\ConversionExerc.pdb
+C:\Users\Cem\Desktop\Dev\Conversion\ConversionExerc\ConversionExerc\obj\Debug\ConversionExerc.csprojResolveAssemblyReference.cache
+C:\Users\Cem\Desktop\Dev\Conversion\ConversionExerc\ConversionExerc\obj\Debug\ConversionExerc.exe
+C:\Users\Cem\Desktop\Dev\Conversion\ConversionExerc\ConversionExerc\obj\Debug\ConversionExerc.pdb
